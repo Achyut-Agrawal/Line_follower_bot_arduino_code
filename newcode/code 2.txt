@@ -15,7 +15,6 @@ int vSpeed = 110;        // MAX 255
   const int right_sensor_pin =A1;
 
   
-  
   int left_sensor_state;
   int right_sensor_state;
 
